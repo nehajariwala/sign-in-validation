@@ -1,0 +1,50 @@
+body{
+    
+   
+}
+form{
+   background-image:url(1.PNG);
+   background-repeat: no-repeat;
+  background-position:center;
+   width: 100%;
+    margin-top:100px;
+    text-align: center;
+    height:800px;
+    background-color: azure;
+    
+}
+form input{
+    margin-top: px;
+   
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow:0 0 2px #D9ACF5;
+    font-weight: 700;
+    width: 190px;
+    font-size: 12px;
+
+}
+form #username{
+     margin-top: 276px;
+     padding: 2px;
+    height: 40px;
+     
+}
+form #password{
+    margin-top:-8px;
+    padding: 2px;
+    height: 40px;
+    position: relative;
+}
+form #btn{
+  
+    width: 100px;
+    background-color: #D9ACF5;
+    border: 1px solid white;
+    padding: 5px;
+    position: absolute;
+     left:910px;
+    top: 480px;
+    font-size: 14px;
+ 
+}
